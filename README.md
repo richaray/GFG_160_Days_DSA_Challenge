@@ -23,6 +23,14 @@ I will be recording my progress and journey here.
 
 ---
 
-### 📚 Topic: Strings
+### 📚 Topic: Strings  
+
+- **Day 14**: Implement Atoi ✔️
+- **Day 15**: Add Binary Strings ✔️
+- **Day 16**: Anagram ✔️
+- **Day 17**: Non Repeating Character
+- **Day 18**: Search Pattern (KMP Algorithm)
+- **Day 19**: Min Char to Add for Palindrome
+- **Day 20**: Strings Rotation of Each Other
 
 
